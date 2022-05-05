@@ -3,7 +3,7 @@
 In this template we will make docker image from dockerfile present on the gitgub . We can also say setup automation build in dockerhub . All you need to do is just follow the steps in the following:
 
 # Step 1 : 
-            Fork the repo
+            Open your github and fork this repository .
 # Step 2: 
             You should have you Pro, Team or Business docker account . Create the repo with any name on the dockerhub . 
 # Step 3: 
