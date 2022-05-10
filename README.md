@@ -18,3 +18,4 @@ In this template we will make docker image from dockerfile present on the gitgub
 # Step 7: 
             It will take sometime and will create docker image from dockerfile present on the github . Whenever there is some change in the the dockerfile             it will automatically start building up the image .  
             
+In the last just curl the ip address of that container after running state. We will see the output which is mentioned in the index.html, we also host our own websites by just mentioning the code in index.html file. 
